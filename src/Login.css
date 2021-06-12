@@ -1,0 +1,11 @@
+.Login {
+  background-color: #0c111b;
+  height: 100vh;
+}
+.section{
+  height:50vh ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
